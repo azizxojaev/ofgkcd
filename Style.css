@@ -1,0 +1,43 @@
+*{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-decoration: none;
+      box-sizing: border-box;
+}
+header{
+      width:100%;
+      height: 1508px;
+      
+}
+.nav{
+      width: 100%;
+      height: 70px;
+      background-color: #282829;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 900px;
+}
+.nav ul{
+      color: white;
+      display: flex;
+      gap: 30px;
+      align-items: center;
+}
+.wer{
+      text-align: center;
+      font-size: 88px;
+}
+.os{
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 30px;
+}
+.klass{
+      width: 393px;
+      height: 396px;
+      text-align: center;
+      gap: 40px;
+}
